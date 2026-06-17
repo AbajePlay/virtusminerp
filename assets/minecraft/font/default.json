@@ -1442,6 +1442,33 @@
         "": -64,
         "": -128
       }
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/menu_pvp.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/menu_settings.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/menu_prefixcolor.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
