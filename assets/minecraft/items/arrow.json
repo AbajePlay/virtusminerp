@@ -378,6 +378,27 @@
           "type": "minecraft:model",
           "model": "minecraft:item/prize_page_5"
         }
+      },
+      {
+        "threshold": 54.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/pvpreal_icon"
+        }
+      },
+      {
+        "threshold": 55.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/pvpreal2_icon"
+        }
+      },
+      {
+        "threshold": 56.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/settingsprofile_icon"
+        }
       }
     ]
   }
