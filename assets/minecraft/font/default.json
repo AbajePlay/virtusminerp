@@ -488,6 +488,51 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:gui/menu_shop.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        "\uE136"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/ornament.png",
+      "ascent": 78,
+      "height": 256,
+      "chars": [
+        "\uE200"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/menu_merchant.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        "\uE201"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/menu_towergame.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        "\uE202"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/menu_questinf.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        "\uE203"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu.png",
       "ascent": 19,
       "height": 256,
@@ -893,24 +938,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu_towergame3x4.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu_towergame4x4.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/spawn.png",
       "ascent": 7,
       "height": 14,
@@ -961,114 +988,6 @@
       "height": 256,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu_purchaser2.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu_purchaser3.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu_purchaser4.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu_shop.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu_shop2.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu_shop3.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu_shop4.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu_shop5.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu_shop6.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu_shop8.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu_shop9.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu_shop10.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
       ]
     },
     {
@@ -1459,6 +1378,15 @@
       "height": 256,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/menu_questbest.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
       ]
     }
   ]
