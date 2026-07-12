@@ -413,6 +413,13 @@
           "type": "minecraft:model",
           "model": "minecraft:item/autopurchase"
         }
+      },
+      {
+        "threshold": 59.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/prize_page_6"
+        }
       }
     ]
   }
