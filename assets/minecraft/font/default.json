@@ -776,6 +776,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/npc_merchant.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:font/npc_ah.png",
       "ascent": 7,
       "height": 8,
