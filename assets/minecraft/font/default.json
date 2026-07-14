@@ -551,6 +551,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:gui/menu_spawnerchestsettings.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        "\uE206"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu.png",
       "ascent": 19,
       "height": 256,
