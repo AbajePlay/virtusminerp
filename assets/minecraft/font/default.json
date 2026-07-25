@@ -506,6 +506,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/tab_logo.png",
+      "ascent": 7,
+      "height": 39,
+      "chars": [
+        "\uE210"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu_merchant.png",
       "ascent": 19,
       "height": 256,
