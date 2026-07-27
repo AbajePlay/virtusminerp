@@ -397,7 +397,7 @@
         "threshold": 56.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/settingsprofile_icon"
+          "model": "minecraft:item/settings_icon"
         }
       },
       {
