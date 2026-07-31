@@ -380,6 +380,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/ruby_icon.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:font/death_icon.png",
       "ascent": 7,
       "height": 8,
