@@ -767,11 +767,29 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu_kitprize.png",
+      "file": "minecraft:gui/menu_caseopen1.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/menu_caseopen3.png",
       "ascent": 19,
       "height": 256,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/menu_caseopen5.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
       ]
     },
     {
