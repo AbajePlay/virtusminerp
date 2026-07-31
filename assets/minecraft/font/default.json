@@ -956,6 +956,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:gui/menu_exc.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu_ahmy.png",
       "ascent": 19,
       "height": 256,
