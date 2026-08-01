@@ -1,0 +1,1 @@
+{"textures":{"1":"bettermodel:item/vicious_strike_5_berserker_leap_5","particle":"bettermodel:item/vicious_strike_5_berserker_leap_5"},"elements":[{"from":[8.0,8.0,6.769231],"to":[8.0,24.0,9.230769],"faces":{"east":{"uv":[4.375,0.125,5.375,10.0],"tintindex":0,"texture":"#1"},"west":{"uv":[5.375,0.125,4.375,10.0],"tintindex":0,"texture":"#1"}}}]}

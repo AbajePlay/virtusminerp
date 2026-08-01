@@ -1,0 +1,1 @@
+{"textures":{"0":"bettermodel:item/berserker_leap_1_berserker_leap_1","particle":"bettermodel:item/berserker_leap_1_berserker_leap_1"},"elements":[{"from":[8.0,8.0,6.769231],"to":[8.0,24.0,9.230769],"faces":{"east":{"uv":[0.625,0.125,1.625,10.0],"tintindex":0,"texture":"#0"},"west":{"uv":[1.625,0.125,0.625,10.0],"tintindex":0,"texture":"#0"}}}]}

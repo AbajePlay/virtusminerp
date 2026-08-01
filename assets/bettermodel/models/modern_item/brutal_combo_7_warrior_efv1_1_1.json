@@ -1,0 +1,1 @@
+{"textures":{"3":"bettermodel:item/brutal_combo_7_warrior_effect1_7","particle":"bettermodel:item/brutal_combo_7_warrior_effect1_7"},"elements":[{"from":[8.0,4.5405407,-8.0],"to":[8.0,11.459459,24.0],"faces":{"east":{"uv":[2.875,0.125,1.5,7.875],"rotation":270,"tintindex":0,"texture":"#3"},"west":{"uv":[1.5,0.125,2.875,7.875],"rotation":90,"tintindex":0,"texture":"#3"}}}]}

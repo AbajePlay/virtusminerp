@@ -1,0 +1,1 @@
+{"textures":{"0":"bettermodel:item/fireball_explosion_1_fireball_explosion_1","particle":"bettermodel:item/fireball_explosion_1_fireball_explosion_1"},"elements":[{"from":[1.0,-7.5,8.0],"to":[15.0,23.5,8.0],"faces":{"north":{"uv":[11.95,0.0,15.5,9.75],"tintindex":0,"texture":"#0"},"south":{"uv":[11.95,0.0,15.5,9.75],"tintindex":0,"texture":"#0"}}}]}

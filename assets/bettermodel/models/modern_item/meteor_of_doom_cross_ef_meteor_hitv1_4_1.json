@@ -1,0 +1,1 @@
+{"textures":{"0":"bettermodel:item/meteor_of_doom_cross_meteor_of_doom","particle":"bettermodel:item/meteor_of_doom_cross_meteor_of_doom"},"elements":[{"from":[0.0,-7.5,8.0],"to":[16.0,23.5,8.0],"faces":{"north":{"uv":[1.8125,10.9375,2.875,12.84375],"tintindex":0,"texture":"#0"},"south":{"uv":[2.875,10.9375,1.8125,12.84375],"tintindex":0,"texture":"#0"}}}]}

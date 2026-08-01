@@ -1,0 +1,1 @@
+{"textures":{"0":"bettermodel:item/cryo_prison_cryo_prison_f","particle":"bettermodel:item/cryo_prison_cryo_prison_f"},"elements":[{"from":[7.0,-0.5,8.0],"to":[9.0,16.5,8.0],"faces":{"north":{"uv":[15.625,14.5,15.8125,15.9375],"tintindex":0,"texture":"#0"},"south":{"uv":[15.8125,14.5,15.625,15.9375],"tintindex":0,"texture":"#0"}}}]}

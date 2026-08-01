@@ -1,0 +1,1 @@
+{"textures":{"1":"bettermodel:item/meteor_of_doom_fireball_long","particle":"bettermodel:item/meteor_of_doom_fireball_long"},"elements":[{"from":[7.118148,-1.323555,-7.897641],"to":[7.118148,14.625266,24.0],"faces":{"east":{"uv":[0.0,16.0,6.0,0.0],"rotation":90,"tintindex":0,"texture":"#1"},"west":{"uv":[6.0,0.0,0.0,16.0],"rotation":90,"tintindex":0,"texture":"#1"}}}]}

@@ -1,0 +1,1 @@
+{"textures":{"2":"bettermodel:item/relentless_whirlwind_1_warrior_effect1_1","particle":"bettermodel:item/relentless_whirlwind_1_warrior_effect1_1"},"elements":[{"from":[8.0,2.5,-4.0],"to":[8.0,13.5,20.0],"faces":{"east":{"uv":[10.625,2.5,9.0,7.75],"rotation":270,"tintindex":0,"texture":"#2"},"west":{"uv":[9.0,2.5,10.625,7.75],"rotation":90,"tintindex":0,"texture":"#2"}}}]}
