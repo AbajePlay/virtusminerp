@@ -1,0 +1,82 @@
+{
+   "littleroom.herobrine.axe_spinning":{
+		 "sounds": [
+			"littleroom/herobrine/axe_spinning"
+		 ]
+	},
+   "littleroom.herobrine.heal":{
+		 "sounds": [
+			"littleroom/herobrine/heal"
+		 ]
+	},
+   "littleroom.herobrine.impact1":{
+		 "sounds": [
+			"littleroom/herobrine/impact1"
+		 ]
+	},
+   "littleroom.herobrine.impact2":{
+		 "sounds": [
+			"littleroom/herobrine/impact2"
+		 ]
+	},
+   "littleroom.herobrine.impact3":{
+		 "sounds": [
+			"littleroom/herobrine/impact3"
+		 ]
+	},
+   "littleroom.herobrine.impact4":{
+		 "sounds": [
+			"littleroom/herobrine/impact4"
+		 ]
+	},
+   "littleroom.herobrine.jump":{
+		 "sounds": [
+			"littleroom/herobrine/jump"
+		 ]
+	},
+   "littleroom.herobrine.powerpunch":{
+		 "sounds": [
+			"littleroom/herobrine/powerpunch"
+		 ]
+	},
+   "littleroom.herobrine.reel":{
+		 "sounds": [
+			"littleroom/herobrine/reel"
+		 ]
+	},
+   "littleroom.herobrine.roll":{
+		 "sounds": [
+			"littleroom/herobrine/roll"
+		 ]
+	},
+   "littleroom.herobrine.swing1":{
+		 "sounds": [
+			"littleroom/herobrine/swing1"
+		 ]
+	},
+   "littleroom.herobrine.swing2":{
+		 "sounds": [
+			"littleroom/herobrine/swing2"
+		 ]
+	},
+   "littleroom.herobrine.swing3":{
+		 "sounds": [
+			"littleroom/herobrine/swing3"
+		 ]
+	},
+   "littleroom.herobrine.swing4":{
+		 "sounds": [
+			"littleroom/herobrine/swing4"
+		 ]
+	},
+   "littleroom.herobrine.swing5":{
+		 "sounds": [
+			"littleroom/herobrine/swing5"
+		 ]
+	},
+   "littleroom.herobrine.powerup":{
+		 "sounds": [
+			"littleroom/herobrine/powerup"
+		 ]
+	}
+}
