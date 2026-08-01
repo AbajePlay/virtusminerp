@@ -1,1 +1,0 @@
-{"textures":{"0":"modelengine:entity/models/ef_soul_slash_4","particle":"#0"},"elements":[{"from":[-7.25,8.0,-5.75],"to":[23.25,8.0,21.75],"faces":{"up":{"uv":[0.375,0.375,15.375,14.375],"tintindex":0,"rotation":0,"texture":"#0"},"down":{"uv":[0.375,14.375,15.375,0.375],"tintindex":0,"rotation":0,"texture":"#0"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}
