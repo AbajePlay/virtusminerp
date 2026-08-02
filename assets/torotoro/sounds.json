@@ -1,0 +1,102 @@
+{
+  "toro.weapon.cloth": {
+    "sounds": [
+      "toro_weaponsounds/cloth"
+    ]
+  },
+  "toro.weapon.skill": {
+    "sounds": [
+      "toro_weaponsounds/skill"
+    ]
+  },
+  "toro.weapon.smash1": {
+    "sounds": [
+      "toro_weaponsounds/smash1"
+    ]
+  },
+  "toro.weapon.stomp": {
+    "sounds": [
+      "toro_weaponsounds/stomp"
+    ]
+  },
+  "toro.weapon.swing1": {
+    "sounds": [
+      "toro_weaponsounds/swing1"
+    ]
+  },
+  "toro.weapon.swing2": {
+    "sounds": [
+      "toro_weaponsounds/swing2"
+    ]
+  },
+  "toro.weapon.swing3": {
+    "sounds": [
+      "toro_weaponsounds/swing3"
+    ]
+  },
+  "toro.weapon.swing4": {
+    "sounds": [
+      "toro_weaponsounds/swing4"
+    ]
+  },
+  "toro.weapon.swing5": {
+    "sounds": [
+      "toro_weaponsounds/swing5"
+    ]
+  },
+  "toro.weapon.swing6": {
+    "sounds": [
+      "toro_weaponsounds/swing6"
+    ]
+  },
+  "toro.weapon.weaponsmash2": {
+    "sounds": [
+      "toro_weaponsounds/weaponsmash2"
+    ]
+  },
+  "toro.xiddri.electricity": {
+    "sounds": [
+      "xiddri_sounds/electricity"
+    ]
+  },
+  "toro.xiddri.growl": {
+    "sounds": [
+      "xiddri_sounds/growl"
+    ]
+  },
+  "toro.xiddri.hit_body": {
+    "sounds": [
+      "xiddri_sounds/hit_body"
+    ]
+  },
+  "toro.xiddri.hit_rock": {
+    "sounds": [
+      "xiddri_sounds/hit_rock"
+    ]
+  },
+  "toro.xiddri.little_roar": {
+    "sounds": [
+      "xiddri_sounds/little_roar"
+    ]
+  },
+  "toro.xiddri.roar": {
+    "sounds": [
+      "xiddri_sounds/roar"
+    ]
+  },
+  "toro.xiddri.small_roar": {
+    "sounds": [
+      "xiddri_sounds/small_roar"
+    ]
+  },
+  "toro.xiddri.spark": {
+    "sounds": [
+      "xiddri_sounds/spark"
+    ]
+  },
+  "toro.xiddri.swing": {
+    "sounds": [
+      "xiddri_sounds/swing"
+    ]
+  }
+}
