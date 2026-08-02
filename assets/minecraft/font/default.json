@@ -501,7 +501,7 @@
       "ascent": 19,
       "height": 256,
       "chars": [
-        "\uE136"
+        ""
       ]
     },
     {
@@ -510,7 +510,7 @@
       "ascent": 78,
       "height": 256,
       "chars": [
-        "\uE200"
+        ""
       ]
     },
     {
@@ -519,7 +519,7 @@
       "ascent": 7,
       "height": 39,
       "chars": [
-        "\uE210"
+        ""
       ]
     },
     {
@@ -528,7 +528,7 @@
       "ascent": 19,
       "height": 256,
       "chars": [
-        "\uE201"
+        ""
       ]
     },
     {
@@ -537,7 +537,7 @@
       "ascent": 19,
       "height": 256,
       "chars": [
-        "\uE202"
+        ""
       ]
     },
     {
@@ -546,7 +546,7 @@
       "ascent": 19,
       "height": 256,
       "chars": [
-        "\uE203"
+        ""
       ]
     },
     {
@@ -555,7 +555,7 @@
       "ascent": 19,
       "height": 256,
       "chars": [
-        "\uE204"
+        ""
       ]
     },
     {
@@ -564,7 +564,7 @@
       "ascent": 19,
       "height": 256,
       "chars": [
-        "\uE205"
+        ""
       ]
     },
     {
@@ -573,7 +573,7 @@
       "ascent": 19,
       "height": 256,
       "chars": [
-        "\uE206"
+        ""
       ]
     },
     {
@@ -1495,6 +1495,96 @@
       "height": 256,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "littleroom_towerskeleton:flamethrower/flamet_01.png",
+      "height": 24,
+      "ascent": 12,
+      "chars": [
+        "⛿"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "littleroom_towerskeleton:flamethrower/flamet_02.png",
+      "height": 24,
+      "ascent": 12,
+      "chars": [
+        "⛾"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "littleroom_towerskeleton:flamethrower/flamet_03.png",
+      "height": 24,
+      "ascent": 12,
+      "chars": [
+        "⛽"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "littleroom_towerskeleton:flamethrower/flamet_04.png",
+      "height": 24,
+      "ascent": 12,
+      "chars": [
+        "⛼"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "littleroom_towerskeleton:flamethrower/flamet_05.png",
+      "height": 24,
+      "ascent": 12,
+      "chars": [
+        "⛻"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "littleroom_towerskeleton:flamethrower/flamet_06.png",
+      "height": 24,
+      "ascent": 12,
+      "chars": [
+        "⛺"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "littleroom_towerskeleton:flamethrower/flamet_07.png",
+      "height": 24,
+      "ascent": 12,
+      "chars": [
+        "⛹"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "littleroom_towerskeleton:flamethrower/flamet_08.png",
+      "height": 24,
+      "ascent": 12,
+      "chars": [
+        "⛸"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "littleroom_towerskeleton:flamethrower/flamet_09.png",
+      "height": 24,
+      "ascent": 12,
+      "chars": [
+        "🁉"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "littleroom_towerskeleton:flamethrower/flamet_10.png",
+      "height": 24,
+      "ascent": 12,
+      "chars": [
+        "🁊"
       ]
     }
   ]
