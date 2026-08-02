@@ -641,6 +641,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:gui/menu_airdropview.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu_quest.png",
       "ascent": 19,
       "height": 256,
