@@ -53,50 +53,5 @@
     "sounds": [
       "toro_weaponsounds/weaponsmash2"
     ]
-  },
-  "toro.xiddri.electricity": {
-    "sounds": [
-      "xiddri_sounds/electricity"
-    ]
-  },
-  "toro.xiddri.growl": {
-    "sounds": [
-      "xiddri_sounds/growl"
-    ]
-  },
-  "toro.xiddri.hit_body": {
-    "sounds": [
-      "xiddri_sounds/hit_body"
-    ]
-  },
-  "toro.xiddri.hit_rock": {
-    "sounds": [
-      "xiddri_sounds/hit_rock"
-    ]
-  },
-  "toro.xiddri.little_roar": {
-    "sounds": [
-      "xiddri_sounds/little_roar"
-    ]
-  },
-  "toro.xiddri.roar": {
-    "sounds": [
-      "xiddri_sounds/roar"
-    ]
-  },
-  "toro.xiddri.small_roar": {
-    "sounds": [
-      "xiddri_sounds/small_roar"
-    ]
-  },
-  "toro.xiddri.spark": {
-    "sounds": [
-      "xiddri_sounds/spark"
-    ]
-  },
-  "toro.xiddri.swing": {
-    "sounds": [
-      "xiddri_sounds/swing"
-    ]
   }
 }
