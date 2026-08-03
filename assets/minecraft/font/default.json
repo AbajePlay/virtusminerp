@@ -1163,15 +1163,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu_activityview.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:gui/menu_rp.png",
       "ascent": 19,
       "height": 256,
