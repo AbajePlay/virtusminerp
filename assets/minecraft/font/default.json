@@ -947,6 +947,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/npc_leave.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu_casino.png",
       "ascent": 19,
       "height": 256,
@@ -1114,6 +1123,15 @@
       "height": 14,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/territory_boss.png",
+      "ascent": 7,
+      "height": 14,
+      "chars": [
+        ""
       ]
     },
     {
