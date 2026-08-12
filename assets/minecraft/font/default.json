@@ -2,11 +2,19 @@
   "providers": [
     {
       "type": "bitmap",
+      "file": "minecraft:font/board_panel_top.png",
+      "ascent": 11,
+      "height": 13,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:font/board_panel.png",
       "ascent": 7,
       "height": 9,
       "chars": [
-        "",
         "",
         "",
         "",
@@ -18,7 +26,15 @@
         "",
         "",
         "",
-        "",
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/board_panel_bottom.png",
+      "ascent": 7,
+      "height": 13,
+      "chars": [
         ""
       ]
     },
