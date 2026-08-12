@@ -3,8 +3,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/board_panel_top.png",
-      "ascent": 33,
-      "height": 35,
+      "ascent": 28,
+      "height": 30,
       "chars": [
         ""
       ]
