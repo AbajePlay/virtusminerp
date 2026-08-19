@@ -427,6 +427,13 @@
           "type": "minecraft:model",
           "model": "minecraft:item/prize_page_7"
         }
+      },
+      {
+        "threshold": 61.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/prefix_color_icon"
+        }
       }
     ]
   }
