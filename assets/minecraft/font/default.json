@@ -606,6 +606,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:gui/menu_altar.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu_spawnerchest.png",
       "ascent": 19,
       "height": 256,
