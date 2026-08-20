@@ -372,6 +372,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/shift_icon.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:font/mob_kills_icon.png",
       "ascent": 7,
       "height": 8,
