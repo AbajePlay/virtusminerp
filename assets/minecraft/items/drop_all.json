@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/drop_all"
+    "model": "minecraft:item/ui/drop_all"
   }
 }

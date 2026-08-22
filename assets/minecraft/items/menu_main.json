@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/menu_main"
+    "model": "minecraft:item/menu/main"
   }
 }

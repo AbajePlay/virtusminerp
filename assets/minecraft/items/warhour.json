@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/warhour"
+    "model": "minecraft:item/hour/warhour"
   }
 }

@@ -9,87 +9,80 @@
     },
     "entries": [
       {
-        "threshold": 1.0,
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/test"
-        }
-      },
-      {
         "threshold": 2.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/donate_imperator"
+          "model": "minecraft:item/donate/imperator"
         }
       },
       {
         "threshold": 3.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/donate_caesar"
+          "model": "minecraft:item/donate/caesar"
         }
       },
       {
         "threshold": 4.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/donate_consul"
+          "model": "minecraft:item/donate/consul"
         }
       },
       {
         "threshold": 5.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/donate_pretor"
+          "model": "minecraft:item/donate/pretor"
         }
       },
       {
         "threshold": 6.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/donate_tribun"
+          "model": "minecraft:item/donate/tribun"
         }
       },
       {
         "threshold": 7.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/donate_centureon"
+          "model": "minecraft:item/donate/centurion"
         }
       },
       {
         "threshold": 8.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/donate_legioner"
+          "model": "minecraft:item/donate/legioner"
         }
       },
       {
         "threshold": 9.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/donate_plebey"
+          "model": "minecraft:item/donate/plebey"
         }
       },
       {
         "threshold": 49.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/left"
+          "model": "minecraft:item/ui/left"
         }
       },
       {
         "threshold": 50.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/list_icon"
+          "model": "minecraft:item/ui/list_icon"
         }
       },
       {
         "threshold": 51.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/right"
+          "model": "minecraft:item/ui/right"
         }
       }
     ]

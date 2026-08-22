@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/gamepad"
+    "model": "minecraft:item/ui/gamepad"
   }
 }

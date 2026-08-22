@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/home"
+    "model": "minecraft:item/teleport/home"
   }
 }

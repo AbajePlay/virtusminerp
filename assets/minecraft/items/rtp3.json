@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/rtp3"
+    "model": "minecraft:item/teleport/rtp3"
   }
 }

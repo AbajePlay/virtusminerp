@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/unique_midas_touch"
+    "model": "minecraft:item/unique/midas_touch"
   }
 }

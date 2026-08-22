@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/sticker_bolt"
+    "model": "minecraft:item/sticker/bolt"
   }
 }

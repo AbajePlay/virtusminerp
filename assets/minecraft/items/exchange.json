@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/exchange"
+    "model": "minecraft:item/economy/exchange"
   }
 }

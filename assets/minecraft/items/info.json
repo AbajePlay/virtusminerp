@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/info"
+    "model": "minecraft:item/ui/info"
   }
 }

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/boss_archer"
+    "model": "minecraft:item/boss/archer"
   }
 }

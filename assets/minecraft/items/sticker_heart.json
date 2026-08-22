@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/sticker_heart"
+    "model": "minecraft:item/sticker/heart"
   }
 }

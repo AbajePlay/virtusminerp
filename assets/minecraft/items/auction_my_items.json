@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/auction_my_items"
+    "model": "minecraft:item/auction/my_items"
   }
 }

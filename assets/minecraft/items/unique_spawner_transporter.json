@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/unique_spawner_transporter"
+    "model": "minecraft:item/unique/spawner_transporter"
   }
 }

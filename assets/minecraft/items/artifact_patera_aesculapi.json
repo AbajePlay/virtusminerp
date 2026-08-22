@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/artifact_patera_aesculapi"
+    "model": "minecraft:item/artifact/patera_aesculapi"
   }
 }

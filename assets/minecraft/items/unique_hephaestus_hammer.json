@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/unique_hephaestus_hammer"
+    "model": "minecraft:item/unique/hephaestus_hammer"
   }
 }

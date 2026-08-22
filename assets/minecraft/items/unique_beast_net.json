@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/unique_beast_net"
+    "model": "minecraft:item/unique/beast_net"
   }
 }

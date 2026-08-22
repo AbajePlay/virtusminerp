@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/spawnteleport"
+    "model": "minecraft:item/teleport/spawnteleport"
   }
 }

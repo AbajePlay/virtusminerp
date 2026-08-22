@@ -12,427 +12,427 @@
         "threshold": 1.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/back"
+          "model": "minecraft:item/ui/back"
         }
       },
       {
         "threshold": 2.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/right"
+          "model": "minecraft:item/ui/right"
         }
       },
       {
         "threshold": 3.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/settings_icon"
+          "model": "minecraft:item/ui/settings_icon"
         }
       },
       {
         "threshold": 4.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/upgrade_icon"
+          "model": "minecraft:item/upgrade/icon"
         }
       },
       {
         "threshold": 5.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/delete_icon"
+          "model": "minecraft:item/ui/delete_icon"
         }
       },
       {
         "threshold": 6.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/alerts_icon"
+          "model": "minecraft:item/ui/alerts_icon"
         }
       },
       {
         "threshold": 7.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/color_icon"
+          "model": "minecraft:item/cosmetic/color_icon"
         }
       },
       {
         "threshold": 8.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/pvp_icon"
+          "model": "minecraft:item/pvp/icon"
         }
       },
       {
         "threshold": 9.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/kick_icon"
+          "model": "minecraft:item/ui/kick_icon"
         }
       },
       {
         "threshold": 10.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/transmit_icon"
+          "model": "minecraft:item/ui/transmit_icon"
         }
       },
       {
         "threshold": 11.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/role_member"
+          "model": "minecraft:item/role/member"
         }
       },
       {
         "threshold": 12.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/role_elder"
+          "model": "minecraft:item/role/elder"
         }
       },
       {
         "threshold": 13.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/role_officer"
+          "model": "minecraft:item/role/officer"
         }
       },
       {
         "threshold": 14.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/role_deputy"
+          "model": "minecraft:item/role/deputy"
         }
       },
       {
         "threshold": 15.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/upgrade_bold"
+          "model": "minecraft:item/upgrade/bold"
         }
       },
       {
         "threshold": 16.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/upgrade_italic"
+          "model": "minecraft:item/upgrade/italic"
         }
       },
       {
         "threshold": 17.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/upgrade_underline"
+          "model": "minecraft:item/upgrade/underline"
         }
       },
       {
         "threshold": 18.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/upgrade_homes"
+          "model": "minecraft:item/upgrade/homes"
         }
       },
       {
         "threshold": 19.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/upgrade_chest"
+          "model": "minecraft:item/upgrade/chest"
         }
       },
       {
         "threshold": 20.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/upgrade_slots"
+          "model": "minecraft:item/upgrade/slots"
         }
       },
       {
         "threshold": 21.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/upgrade_clan_color"
+          "model": "minecraft:item/upgrade/clan_color"
         }
       },
       {
         "threshold": 22.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/kit_player"
+          "model": "minecraft:item/kit/player"
         }
       },
       {
         "threshold": 23.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/kit_youtuber"
+          "model": "minecraft:item/kit/youtuber"
         }
       },
       {
         "threshold": 24.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/menu_donate"
+          "model": "minecraft:item/menu/donate"
         }
       },
       {
         "threshold": 25.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/menu_market"
+          "model": "minecraft:item/menu/market"
         }
       },
       {
         "threshold": 26.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/menu_earnings"
+          "model": "minecraft:item/menu/earnings"
         }
       },
       {
         "threshold": 27.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/menu_quests"
+          "model": "minecraft:item/menu/quests"
         }
       },
       {
         "threshold": 28.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/menu_clans"
+          "model": "minecraft:item/menu/clans"
         }
       },
       {
         "threshold": 29.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/menu_kits"
+          "model": "minecraft:item/menu/kits"
         }
       },
       {
         "threshold": 30.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/menu_shop"
+          "model": "minecraft:item/menu/shop"
         }
       },
       {
         "threshold": 31.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/menu_teleports"
+          "model": "minecraft:item/menu/teleports"
         }
       },
       {
         "threshold": 32.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/cosmetics_icon"
+          "model": "minecraft:item/cosmetic/cosmetics_icon"
         }
       },
       {
         "threshold": 33.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/battle_pass_icon"
+          "model": "minecraft:item/ui/battle_pass_icon"
         }
       },
       {
         "threshold": 34.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/activities_icon"
+          "model": "minecraft:item/ui/activities_icon"
         }
       },
       {
         "threshold": 35.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/kill_effects_icon"
+          "model": "minecraft:item/cosmetic/kill_effects_icon"
         }
       },
       {
         "threshold": 36.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/titles_icon"
+          "model": "minecraft:item/cosmetic/titles_icon"
         }
       },
       {
         "threshold": 37.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/spit_effects_icon"
+          "model": "minecraft:item/cosmetic/spit_effects_icon"
         }
       },
       {
         "threshold": 38.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/disable_icon"
+          "model": "minecraft:item/ui/disable_icon"
         }
       },
       {
         "threshold": 39.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/collected_prize_icon"
+          "model": "minecraft:item/ui/collected_prize_icon"
         }
       },
       {
         "threshold": 40.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/random_effect_icon"
+          "model": "minecraft:item/cosmetic/random_effect_icon"
         }
       },
       {
         "threshold": 41.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/case_privilege_icon"
+          "model": "minecraft:item/case/privilege_icon"
         }
       },
       {
         "threshold": 42.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/case_items_icon"
+          "model": "minecraft:item/case/items_icon"
         }
       },
       {
         "threshold": 43.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/case_cosmetic_icon"
+          "model": "minecraft:item/case/cosmetic_icon"
         }
       },
       {
         "threshold": 44.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/case_dollars_icon"
+          "model": "minecraft:item/case/dollars_icon"
         }
       },
       {
         "threshold": 45.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/case_virts_icon"
+          "model": "minecraft:item/case/virts_icon"
         }
       },
       {
         "threshold": 46.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/case_kits_icon"
+          "model": "minecraft:item/case/kits_icon"
         }
       },
       {
         "threshold": 47.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/dollar_icon"
+          "model": "minecraft:item/economy/dollar_icon"
         }
       },
       {
         "threshold": 48.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/virt_icon"
+          "model": "minecraft:item/economy/virt_icon"
         }
       },
       {
         "threshold": 49.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/prize_page_1"
+          "model": "minecraft:item/prize/page_1"
         }
       },
       {
         "threshold": 50.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/prize_page_2"
+          "model": "minecraft:item/prize/page_2"
         }
       },
       {
         "threshold": 51.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/prize_page_3"
+          "model": "minecraft:item/prize/page_3"
         }
       },
       {
         "threshold": 52.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/prize_page_4"
+          "model": "minecraft:item/prize/page_4"
         }
       },
       {
         "threshold": 53.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/prize_page_5"
+          "model": "minecraft:item/prize/page_5"
         }
       },
       {
         "threshold": 54.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/pvpreal_icon"
+          "model": "minecraft:item/pvp/real"
         }
       },
       {
         "threshold": 55.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/pvpreal2_icon"
+          "model": "minecraft:item/pvp/real2"
         }
       },
       {
         "threshold": 56.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/settingsprofile_icon"
+          "model": "minecraft:item/ui/settingsprofile_icon"
         }
       },
       {
         "threshold": 57.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/buy"
+          "model": "minecraft:item/economy/buy"
         }
       },
       {
         "threshold": 58.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/autopurchase"
+          "model": "minecraft:item/economy/autopurchase"
         }
       },
       {
         "threshold": 59.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/prize_page_6"
+          "model": "minecraft:item/prize/page_6"
         }
       },
       {
         "threshold": 60.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/prize_page_7"
+          "model": "minecraft:item/prize/page_7"
         }
       },
       {
         "threshold": 61.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/prefix_color_icon"
+          "model": "minecraft:item/cosmetic/prefix_color_icon"
         }
       }
     ]

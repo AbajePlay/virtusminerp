@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/dollar_icon"
+    "model": "minecraft:item/economy/dollar_icon"
   }
 }

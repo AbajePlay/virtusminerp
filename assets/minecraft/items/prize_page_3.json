@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/prize_page_3"
+    "model": "minecraft:item/prize/page_3"
   }
 }
