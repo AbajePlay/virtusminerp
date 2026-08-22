@@ -1038,6 +1038,24 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:gui/menu_shila.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/menu_anvil.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu_purchaser.png",
       "ascent": 19,
       "height": 256,
