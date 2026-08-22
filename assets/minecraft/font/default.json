@@ -1029,15 +1029,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu_sapperselect.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:gui/menu_towerselect.png",
       "ascent": 19,
       "height": 256,
@@ -1133,15 +1124,6 @@
       "height": 256,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu_sappergame.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
       ]
     },
     {
