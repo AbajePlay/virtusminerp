@@ -1580,7 +1580,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_subtabs5.png",
+      "file": "minecraft:gui/menu/shop_subtabs_35.png",
       "ascent": 19,
       "height": 256,
       "chars": [
@@ -1589,11 +1589,20 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_subtabs3.png",
+      "file": "minecraft:gui/menu/shop_subtabs_246.png",
       "ascent": 19,
       "height": 256,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/menu/shop_subtabs_2356.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
       ]
     },
     {
