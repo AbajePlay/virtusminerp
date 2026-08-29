@@ -9,6 +9,13 @@
     },
     "entries": [
       {
+        "threshold": 1.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/ui/test"
+        }
+      },
+      {
         "threshold": 2.0,
         "model": {
           "type": "minecraft:model",
