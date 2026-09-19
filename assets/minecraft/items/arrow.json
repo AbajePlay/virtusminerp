@@ -434,6 +434,13 @@
           "type": "minecraft:model",
           "model": "minecraft:item/cosmetic/prefix_color_icon"
         }
+      },
+      {
+        "threshold": 62.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/prize/page_8"
+        }
       }
     ]
   }
