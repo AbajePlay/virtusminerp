@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:item/mob/spider_queen/fx_warn_acid/glow_wave"
+  }
+}
