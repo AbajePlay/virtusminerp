@@ -1,1 +1,1 @@
-{"textures":{"0":"minecraft:item/mob/spider_queen/fx_warn_acid","particle":"minecraft:item/mob/spider_queen/fx_warn_acid"},"elements":[{"from":[-8.0,8.0,-8.0],"to":[24.0,8.1667,24.0],"faces":{"up":{"uv":[8.0,0.0,16.0,8.0],"texture":"#0"}}}]}
+{"textures":{"0":"minecraft:item/mob/spider_queen/fx_warn_acid","particle":"minecraft:item/mob/spider_queen/fx_warn_acid"},"elements":[{"from":[-8.0,8.2,-8.0],"to":[24.0,8.3667,24.0],"faces":{"up":{"uv":[8.0,0.0,16.0,8.0],"texture":"#0"}}}]}
