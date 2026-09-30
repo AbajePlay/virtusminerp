@@ -1400,6 +1400,60 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/prefix/senator_icon.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/dictator_icon.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/senator_bg.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/dictator_bg.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/senator_fg.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/prefix/dictator_fg.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/ornament.png",
       "ascent": 78,
       "height": 256,
@@ -1657,6 +1711,15 @@
       "ascent": 19,
       "height": 256,
       "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/menu/privilege10.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
+      ]
     },
     {
       "type": "bitmap",

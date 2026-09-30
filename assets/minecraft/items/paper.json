@@ -72,6 +72,20 @@
         }
       },
       {
+        "threshold": 10.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/donate/senator"
+        }
+      },
+      {
+        "threshold": 11.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/donate/dictator"
+        }
+      },
+      {
         "threshold": 49.0,
         "model": {
           "type": "minecraft:model",
