@@ -1544,15 +1544,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/airdropview.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:gui/menu/stickers.png",
       "ascent": 19,
       "height": 256,
