@@ -2291,7 +2291,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/cow.png",
+      "file": "minecraft:font/title/sheep.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2300,7 +2300,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/mooshroom.png",
+      "file": "minecraft:font/title/chicken.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2309,7 +2309,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/sheep.png",
+      "file": "minecraft:font/title/wolf.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2318,7 +2318,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/chicken.png",
+      "file": "minecraft:font/title/fox.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2327,7 +2327,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/rabbit.png",
+      "file": "minecraft:font/title/ocelot.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2336,7 +2336,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/horse.png",
+      "file": "minecraft:font/title/panda.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2345,7 +2345,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/donkey.png",
+      "file": "minecraft:font/title/polar_bear.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2354,7 +2354,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/mule.png",
+      "file": "minecraft:font/title/bee.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2363,7 +2363,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/llama.png",
+      "file": "minecraft:font/title/frog.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2372,7 +2372,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/trader_llama.png",
+      "file": "minecraft:font/title/axolotl.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2381,7 +2381,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/camel.png",
+      "file": "minecraft:font/title/cod.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2390,7 +2390,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/camel_husk.png",
+      "file": "minecraft:font/title/salmon.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2399,7 +2399,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/goat.png",
+      "file": "minecraft:font/title/pufferfish.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2408,110 +2408,11 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/wolf.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/fox.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/ocelot.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/panda.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/polar_bear.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/bee.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/frog.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/axolotl.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/cod.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/salmon.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/pufferfish.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/title/tropical_fish.png",
       "ascent": 7,
       "height": 8,
       "chars": [
-        ""
+        ""
       ]
     }
   ]
