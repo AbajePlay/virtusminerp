@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/ui/arrow_up"
+    "model": "minecraft:item/ui/chevron_down"
   }
 }

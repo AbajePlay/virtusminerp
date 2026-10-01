@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/ui/arrow_up"
+    "layer0": "minecraft:item/ui/chevron_down"
   }
 }
