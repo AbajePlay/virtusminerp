@@ -2381,7 +2381,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/cat.png",
+      "file": "minecraft:font/title/ocelot.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2390,7 +2390,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/ocelot.png",
+      "file": "minecraft:font/title/panda.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2399,7 +2399,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/panda.png",
+      "file": "minecraft:font/title/polar_bear.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2408,7 +2408,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/polar_bear.png",
+      "file": "minecraft:font/title/bee.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2417,7 +2417,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/bee.png",
+      "file": "minecraft:font/title/frog.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2426,7 +2426,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/parrot.png",
+      "file": "minecraft:font/title/axolotl.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2435,7 +2435,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/frog.png",
+      "file": "minecraft:font/title/squid.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2444,7 +2444,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/armadillo.png",
+      "file": "minecraft:font/title/glow_squid.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2453,7 +2453,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/bat.png",
+      "file": "minecraft:font/title/cod.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2462,7 +2462,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/sniffer.png",
+      "file": "minecraft:font/title/salmon.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2471,7 +2471,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/axolotl.png",
+      "file": "minecraft:font/title/pufferfish.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2480,7 +2480,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/squid.png",
+      "file": "minecraft:font/title/tropical_fish.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2489,7 +2489,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/glow_squid.png",
+      "file": "minecraft:font/title/turtle.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2498,7 +2498,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/cod.png",
+      "file": "minecraft:font/title/guardian.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2507,7 +2507,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/salmon.png",
+      "file": "minecraft:font/title/elder_guardian.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2516,7 +2516,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/pufferfish.png",
+      "file": "minecraft:font/title/blaze.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2525,7 +2525,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/tropical_fish.png",
+      "file": "minecraft:font/title/piglin.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2534,7 +2534,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/turtle.png",
+      "file": "minecraft:font/title/zombified_piglin.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2543,7 +2543,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/guardian.png",
+      "file": "minecraft:font/title/wither_skeleton.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2552,7 +2552,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/elder_guardian.png",
+      "file": "minecraft:font/title/enderman.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2561,7 +2561,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/blaze.png",
+      "file": "minecraft:font/title/shulker.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2570,7 +2570,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/ghast.png",
+      "file": "minecraft:font/title/ender_dragon.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2579,7 +2579,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/happy_ghast.png",
+      "file": "minecraft:font/title/wither.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2588,7 +2588,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/piglin.png",
+      "file": "minecraft:font/title/warden.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2597,7 +2597,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/piglin_brute.png",
+      "file": "minecraft:font/title/creaking.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2606,119 +2606,11 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/zombified_piglin.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/wither_skeleton.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/strider.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/magma_cube.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/hoglin.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/zoglin.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/enderman.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/shulker.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/ender_dragon.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/wither.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/warden.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/creaking.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/title/breeze.png",
       "ascent": 7,
       "height": 8,
       "chars": [
-        ""
+        ""
       ]
     }
   ]
