@@ -1802,6 +1802,96 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/skull.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/like.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/dislike.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/creeper.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/tnt.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/diamond.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/eyes.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/lol.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/trophy.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/star.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
     }
   ]
 }
