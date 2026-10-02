@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/title/vampire"
+    "layer0": "minecraft:item/title/ushanka"
   }
 }

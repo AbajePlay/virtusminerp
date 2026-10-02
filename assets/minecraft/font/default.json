@@ -2030,7 +2030,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/grimace.png",
+      "file": "minecraft:font/title/blush.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2039,7 +2039,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/blush.png",
+      "file": "minecraft:font/title/eyeroll.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2048,7 +2048,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/eyeroll.png",
+      "file": "minecraft:font/title/nerd.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2057,7 +2057,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/nerd.png",
+      "file": "minecraft:font/title/mask.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2066,7 +2066,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/mask.png",
+      "file": "minecraft:font/title/headphones.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2093,7 +2093,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/vampire.png",
+      "file": "minecraft:font/title/viking.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2102,7 +2102,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/pumpkin.png",
+      "file": "minecraft:font/title/miner.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2111,7 +2111,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/snowman.png",
+      "file": "minecraft:font/title/ushanka.png",
       "ascent": 7,
       "height": 8,
       "chars": [
