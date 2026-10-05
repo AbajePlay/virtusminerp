@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/title/check"
+    "layer0": "minecraft:item/title/crescent"
   }
 }

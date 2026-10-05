@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/title/cross"
+    "layer0": "minecraft:item/title/balloon"
   }
 }

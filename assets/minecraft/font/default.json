@@ -2408,7 +2408,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/warning.png",
+      "file": "minecraft:font/title/bulb.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2417,7 +2417,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/bulb.png",
+      "file": "minecraft:font/title/note.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2426,7 +2426,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/forbidden.png",
+      "file": "minecraft:font/title/anchor.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2435,7 +2435,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/check.png",
+      "file": "minecraft:font/title/bomb.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2444,7 +2444,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/cross.png",
+      "file": "minecraft:font/title/hourglass.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2453,7 +2453,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/question.png",
+      "file": "minecraft:font/title/key.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2462,7 +2462,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/exclaim.png",
+      "file": "minecraft:font/title/bell.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2471,7 +2471,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/note.png",
+      "file": "minecraft:font/title/clover.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2480,7 +2480,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/anchor.png",
+      "file": "minecraft:font/title/gift.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2489,7 +2489,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/bomb.png",
+      "file": "minecraft:font/title/balloon.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2498,7 +2498,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/hourglass.png",
+      "file": "minecraft:font/title/lock.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2507,7 +2507,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/key.png",
+      "file": "minecraft:font/title/crescent.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2516,7 +2516,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/bell.png",
+      "file": "minecraft:font/title/rubik.png",
       "ascent": 7,
       "height": 8,
       "chars": [

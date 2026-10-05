@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/title/warning"
+    "model": "minecraft:item/title/balloon"
   }
 }
