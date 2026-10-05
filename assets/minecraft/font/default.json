@@ -2417,7 +2417,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/peace.png",
+      "file": "minecraft:font/title/bulb.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2642,7 +2642,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/carrot.png",
+      "file": "minecraft:font/title/cherry.png",
       "ascent": 7,
       "height": 8,
       "chars": [
