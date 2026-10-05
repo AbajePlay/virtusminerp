@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/sticker/gg"
+    "layer0": "minecraft:item/sticker/cobweb"
   }
 }

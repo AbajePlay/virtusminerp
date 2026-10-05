@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/sticker/totem"
+    "model": "minecraft:item/sticker/ingot"
   }
 }
