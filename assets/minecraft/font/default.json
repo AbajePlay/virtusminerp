@@ -2651,7 +2651,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/strawberry.png",
+      "file": "minecraft:font/title/broccoli.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2741,7 +2741,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/banana.png",
+      "file": "minecraft:font/title/corn.png",
       "ascent": 7,
       "height": 8,
       "chars": [
