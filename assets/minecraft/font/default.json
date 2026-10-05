@@ -2696,7 +2696,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/kiwi.png",
+      "file": "minecraft:font/title/jam.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2705,7 +2705,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/lemon.png",
+      "file": "minecraft:font/title/shawarma.png",
       "ascent": 7,
       "height": 8,
       "chars": [
