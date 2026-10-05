@@ -1841,15 +1841,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/sticker/diamond.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/sticker/eyes.png",
       "ascent": 7,
       "height": 8,
@@ -1909,15 +1900,6 @@
       "height": 8,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/medal.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
       ]
     },
     {
@@ -1999,24 +1981,6 @@
       "height": 8,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/pill.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/ghost.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
       ]
     },
     {
