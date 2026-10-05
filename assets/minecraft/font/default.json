@@ -1868,15 +1868,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/sticker/broken.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/sticker/cross.png",
       "ascent": 7,
       "height": 8,
@@ -1931,33 +1922,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/sticker/gapple.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/pickaxe.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/cobweb.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/sticker/sparkles.png",
       "ascent": 7,
       "height": 8,
@@ -1981,6 +1945,15 @@
       "height": 8,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/bone.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
       ]
     },
     {
