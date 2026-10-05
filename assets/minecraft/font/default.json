@@ -1931,29 +1931,11 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/sticker/ingot.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/sticker/rocket.png",
       "ascent": 7,
       "height": 8,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/emerald.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
       ]
     },
     {
@@ -1967,56 +1949,11 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/sticker/shield.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/axe.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/potion.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/trident.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/sticker/gapple.png",
       "ascent": 7,
       "height": 8,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/pearl.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
       ]
     },
     {
@@ -2039,11 +1976,47 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/sticker/blood.png",
+      "file": "minecraft:font/sticker/sparkles.png",
       "ascent": 7,
       "height": 8,
       "chars": [
-        ""
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/rip.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/poop.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/pill.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/ghost.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
       ]
     },
     {

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/sticker/pearl"
+    "layer0": "minecraft:item/sticker/ghost"
   }
 }

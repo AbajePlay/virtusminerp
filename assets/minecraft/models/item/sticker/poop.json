@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/sticker/shield"
+    "layer0": "minecraft:item/sticker/poop"
   }
 }
