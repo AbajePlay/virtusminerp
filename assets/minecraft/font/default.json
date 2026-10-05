@@ -1877,6 +1877,24 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/sticker/cross.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/check.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:font/sticker/what.png",
       "ascent": 7,
       "height": 8,
@@ -1904,11 +1922,29 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/sticker/ingot.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:font/sticker/rocket.png",
       "ascent": 7,
       "height": 8,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/emerald.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
       ]
     },
     {
@@ -1931,83 +1967,20 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/sticker/potion.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/pearl.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/pickaxe.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/blood.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/cross.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/check.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/ingot.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/sticker/emerald.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/sticker/axe.png",
       "ascent": 7,
       "height": 8,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/potion.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
       ]
     },
     {
@@ -2030,11 +2003,38 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/sticker/pearl.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/pickaxe.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:font/sticker/cobweb.png",
       "ascent": 7,
       "height": 8,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/sticker/blood.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
       ]
     },
     {
