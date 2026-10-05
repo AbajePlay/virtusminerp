@@ -2741,7 +2741,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/grapes.png",
+      "file": "minecraft:font/title/banana.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2894,7 +2894,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/candy.png",
+      "file": "minecraft:font/title/camera.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2903,7 +2903,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/camera.png",
+      "file": "minecraft:font/title/tulip.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2912,7 +2912,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/tulip.png",
+      "file": "minecraft:font/title/dumbbell.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2921,11 +2921,47 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/dumbbell.png",
+      "file": "minecraft:font/title/cone.png",
       "ascent": 7,
       "height": 8,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/title/tophat.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/title/magnifier.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/title/alarm.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/title/umbrella.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
       ]
     }
   ]
