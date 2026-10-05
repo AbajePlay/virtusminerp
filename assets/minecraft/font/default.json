@@ -2606,7 +2606,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/pizza.png",
+      "file": "minecraft:font/title/eggcup.png",
       "ascent": 7,
       "height": 8,
       "chars": [
