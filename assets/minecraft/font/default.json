@@ -2498,7 +2498,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/coin.png",
+      "file": "minecraft:font/title/hourglass.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2588,7 +2588,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/drumstick.png",
+      "file": "minecraft:font/title/strawberry.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -2642,7 +2642,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/watermelon.png",
+      "file": "minecraft:font/title/carrot.png",
       "ascent": 7,
       "height": 8,
       "chars": [
