@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/airdrop/altars"
+    "layer0": "minecraft:item/airdrop/rarity_common"
   }
 }

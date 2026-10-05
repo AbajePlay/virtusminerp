@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/airdrop/legendary"
+    "model": "minecraft:item/airdrop/rarity_legendary"
   }
 }
