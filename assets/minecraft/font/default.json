@@ -1741,6 +1741,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:gui/menu/cosmetic_term.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:font/board/panel_top.png",
       "ascent": 27,
       "height": 29,
