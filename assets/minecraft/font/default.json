@@ -3020,7 +3020,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/ach_hunter.png",
+      "file": "minecraft:font/title/ach_patrician.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -3029,11 +3029,20 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/ach_slayer.png",
+      "file": "minecraft:font/title/ach_hunter.png",
       "ascent": 7,
       "height": 8,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/title/ach_slayer.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
       ]
     }
   ]
