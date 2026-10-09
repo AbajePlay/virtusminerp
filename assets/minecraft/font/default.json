@@ -1508,6 +1508,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/ui/wipe_plate.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/ornament.png",
       "ascent": 78,
       "height": 256,
