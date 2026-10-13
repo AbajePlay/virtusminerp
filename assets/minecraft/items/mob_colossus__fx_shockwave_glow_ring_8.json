@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/colossus/fx_shockwave/glow_ring_8"
+    "model": "minecraft:item/mob/colossus/fx_shockwave/glow_ring_8",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

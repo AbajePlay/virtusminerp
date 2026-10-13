@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/colossus/fx_warn_line/glow_line"
+    "model": "minecraft:item/mob/colossus/fx_warn_line/glow_line",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

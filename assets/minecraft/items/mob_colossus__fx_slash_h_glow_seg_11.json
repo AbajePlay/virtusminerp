@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/colossus/fx_slash_h/glow_seg_11"
+    "model": "minecraft:item/mob/colossus/fx_slash_h/glow_seg_11",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

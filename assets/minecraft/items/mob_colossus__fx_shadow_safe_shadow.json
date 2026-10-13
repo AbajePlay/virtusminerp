@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/colossus/fx_shadow_safe/shadow"
+    "model": "minecraft:item/mob/colossus/fx_shadow_safe/shadow",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

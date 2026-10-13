@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/colossus/fx_laurel/glow_wreath"
+    "model": "minecraft:item/mob/colossus/fx_laurel/glow_wreath",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/colossus/fx_guard_sigil/glow_sigil"
+    "model": "minecraft:item/mob/colossus/fx_guard_sigil/glow_sigil",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }
