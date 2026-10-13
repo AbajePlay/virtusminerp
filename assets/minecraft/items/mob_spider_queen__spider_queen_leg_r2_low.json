@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/spider_queen/spider_queen/leg_r2_low"
+    "model": "minecraft:item/mob/spider_queen/spider_queen/leg_r2_low",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:item/mob/vulcan/fx_flame_jet/glow_flame_0",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
+  }
+}

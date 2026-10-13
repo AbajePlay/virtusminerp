@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:item/mob/vulcan/fx_cracks/glow_crack_2",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
+  }
+}

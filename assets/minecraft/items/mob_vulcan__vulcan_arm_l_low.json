@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/vulcan/vulcan/arm_l_low"
+    "model": "minecraft:item/mob/vulcan/vulcan/arm_l_low",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

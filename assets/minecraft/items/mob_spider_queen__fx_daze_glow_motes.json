@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/spider_queen/fx_daze/glow_motes"
+    "model": "minecraft:item/mob/spider_queen/fx_daze/glow_motes",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

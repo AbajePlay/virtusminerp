@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/spider_queen/fx_burrow_mound/chunk_back"
+    "model": "minecraft:item/mob/spider_queen/fx_burrow_mound/chunk_back",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

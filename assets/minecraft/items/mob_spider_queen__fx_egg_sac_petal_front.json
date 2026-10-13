@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/spider_queen/fx_egg_sac/petal_front"
+    "model": "minecraft:item/mob/spider_queen/fx_egg_sac/petal_front",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

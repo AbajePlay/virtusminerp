@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/vulcan/fx_fire_arc_v/glow_seg_8"
+    "model": "minecraft:item/mob/vulcan/fx_fire_arc_v/glow_seg_8",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

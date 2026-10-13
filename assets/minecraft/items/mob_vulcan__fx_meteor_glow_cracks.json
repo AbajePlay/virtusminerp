@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/vulcan/fx_meteor/glow_cracks"
+    "model": "minecraft:item/mob/vulcan/fx_meteor/glow_cracks",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

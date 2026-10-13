@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/spider_queen/spider_queen/glow_eggs"
+    "model": "minecraft:item/mob/spider_queen/spider_queen/glow_eggs",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

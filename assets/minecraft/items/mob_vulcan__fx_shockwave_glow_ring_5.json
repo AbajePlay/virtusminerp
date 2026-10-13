@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/vulcan/fx_shockwave/glow_ring_5"
+    "model": "minecraft:item/mob/vulcan/fx_shockwave/glow_ring_5",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

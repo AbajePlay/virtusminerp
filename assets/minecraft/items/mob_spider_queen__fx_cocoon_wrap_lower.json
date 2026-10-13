@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/spider_queen/fx_cocoon/wrap_lower"
+    "model": "minecraft:item/mob/spider_queen/fx_cocoon/wrap_lower",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

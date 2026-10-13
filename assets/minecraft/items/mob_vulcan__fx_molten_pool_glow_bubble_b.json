@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/vulcan/fx_molten_pool/glow_bubble_b"
+    "model": "minecraft:item/mob/vulcan/fx_molten_pool/glow_bubble_b",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }

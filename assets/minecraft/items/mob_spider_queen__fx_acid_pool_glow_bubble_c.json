@@ -1,6 +1,12 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/spider_queen/fx_acid_pool/glow_bubble_c"
+    "model": "minecraft:item/mob/spider_queen/fx_acid_pool/glow_bubble_c",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -1
+      }
+    ]
   }
 }
