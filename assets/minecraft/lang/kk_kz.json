@@ -1,4 +1,5 @@
 {
   "menu.game": "",
-  "menu.returnToGame": "Ойнай беру"
+  "menu.returnToGame": "§6§lВернуться к игре",
+  "menu.disconnect": "§c§lОтключиться :("
 }

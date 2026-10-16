@@ -1,5 +1,6 @@
 {
   "container.inventory": "",
   "menu.game": "",
-  "menu.returnToGame": "Вернуться к игре"
+  "menu.returnToGame": "§6§lВернуться к игре",
+  "menu.disconnect": "§c§lОтключиться :("
 }

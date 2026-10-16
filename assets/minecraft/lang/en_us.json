@@ -991,5 +991,6 @@
   "enchantment.level.999": "CMXCIX",
   "enchantment.level.1000": "M",
   "menu.game": "",
-  "menu.returnToGame": "Back to Game"
+  "menu.returnToGame": "§6§lВернуться к игре",
+  "menu.disconnect": "§c§lОтключиться :("
 }
