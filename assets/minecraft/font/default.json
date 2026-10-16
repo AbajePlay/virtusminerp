@@ -824,15 +824,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/towerselect.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:gui/menu/purchaser.png",
       "ascent": 19,
       "height": 256,
@@ -1535,15 +1526,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/towergame.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:gui/menu/questinf.png",
       "ascent": 19,
       "height": 256,
@@ -1625,29 +1607,11 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/shila.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/ui/tab_logo.png",
       "ascent": 7,
       "height": 39,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu/shila_game.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
       ]
     },
     {
