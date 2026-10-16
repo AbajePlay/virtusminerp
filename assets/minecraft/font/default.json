@@ -1814,8 +1814,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/ui/pause_logo.png",
-      "ascent": 43,
-      "height": 60,
+      "ascent": 64,
+      "height": 64,
       "chars": [
         ""
       ]
