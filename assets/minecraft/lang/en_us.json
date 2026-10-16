@@ -992,5 +992,7 @@
   "enchantment.level.1000": "M",
   "menu.game": "",
   "menu.returnToGame": "§6§lВернуться к игре",
-  "menu.disconnect": "§c§lОтключиться :("
+  "menu.disconnect": "§c§lОтключиться :(",
+  "menu.server_links": "Ссылки сервера",
+  "menu.server_links.title": "Ссылки сервера"
 }
