@@ -1813,6 +1813,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/ui/pause_logo.png",
+      "ascent": 64,
+      "height": 64,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:font/board/panel_top.png",
       "ascent": 27,
       "height": 29,

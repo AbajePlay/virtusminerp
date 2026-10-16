@@ -989,5 +989,17 @@
   "enchantment.level.997": "CMXCVII",
   "enchantment.level.998": "CMXCVIII",
   "enchantment.level.999": "CMXCIX",
-  "enchantment.level.1000": "M"
+  "enchantment.level.1000": "M",
+  "menu.game": "",
+  "menu.returnToGame": "§6Вернуться к игре",
+  "menu.disconnect": "§cОтключиться :(",
+  "menu.server_links": "§bСсылки сервера",
+  "menu.server_links.title": "Ссылки сервера",
+  "gui.advancements": "Достижения",
+  "gui.stats": "Статистика",
+  "menu.options": "Настройки",
+  "menu.playerReporting": "Жалобы",
+  "menu.feedback": "Обратная связь",
+  "menu.sendFeedback": "Оставить отзыв",
+  "menu.reportBugs": "Нашли ошибку?"
 }

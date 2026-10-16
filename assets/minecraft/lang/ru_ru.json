@@ -1,3 +1,15 @@
 {
-  "container.inventory": ""
+  "container.inventory": "",
+  "menu.game": "",
+  "menu.returnToGame": "§6Вернуться к игре",
+  "menu.disconnect": "§cОтключиться :(",
+  "menu.server_links": "§bСсылки сервера",
+  "menu.server_links.title": "Ссылки сервера",
+  "gui.advancements": "Достижения",
+  "gui.stats": "Статистика",
+  "menu.options": "Настройки",
+  "menu.playerReporting": "Жалобы",
+  "menu.feedback": "Обратная связь",
+  "menu.sendFeedback": "Оставить отзыв",
+  "menu.reportBugs": "Нашли ошибку?"
 }
