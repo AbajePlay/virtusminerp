@@ -1813,20 +1813,11 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/ui/tab_logo.png",
+      "file": "minecraft:font/ui/pause_logo.png",
       "ascent": 43,
       "height": 60,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/ui/pause_logo_text.png",
-      "ascent": 28,
-      "height": 30,
-      "chars": [
-        ""
       ]
     },
     {
