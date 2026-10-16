@@ -1508,6 +1508,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/slot/symbols.png",
+      "ascent": 5,
+      "height": 16,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/ornament.png",
       "ascent": 78,
       "height": 256,
