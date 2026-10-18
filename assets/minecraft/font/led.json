@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/led/digits.png",
+      "ascent": 5,
+      "height": 14,
+      "chars": [
+        "0123456789-_"
+      ]
+    }
+  ]
+}
