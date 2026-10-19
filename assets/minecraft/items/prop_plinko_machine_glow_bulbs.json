@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:item/prop/plinko_machine/glow_bulbs"
+  }
+}
