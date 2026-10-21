@@ -1,0 +1,33 @@
+{
+  "textures": {
+    "particle": "minecraft:item/graffiti/mushroom/3",
+    "g": "minecraft:item/graffiti/mushroom/3"
+  },
+  "gui_light": "front",
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        8
+      ],
+      "to": [
+        16,
+        16,
+        8
+      ],
+      "shade": false,
+      "faces": {
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#g"
+        }
+      }
+    }
+  ]
+}
