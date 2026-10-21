@@ -5,7 +5,7 @@
     "index": 0,
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/graffiti/crown/10"
+      "model": "minecraft:item/graffiti/crown/8"
     },
     "entries": [
       {
@@ -62,20 +62,6 @@
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/graffiti/crown/8"
-        }
-      },
-      {
-        "threshold": 9.0,
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/graffiti/crown/9"
-        }
-      },
-      {
-        "threshold": 10.0,
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/graffiti/crown/10"
         }
       }
     ]
