@@ -1,0 +1,69 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/graffiti/eye/8"
+    },
+    "entries": [
+      {
+        "threshold": 1.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/graffiti/eye/1"
+        }
+      },
+      {
+        "threshold": 2.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/graffiti/eye/2"
+        }
+      },
+      {
+        "threshold": 3.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/graffiti/eye/3"
+        }
+      },
+      {
+        "threshold": 4.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/graffiti/eye/4"
+        }
+      },
+      {
+        "threshold": 5.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/graffiti/eye/5"
+        }
+      },
+      {
+        "threshold": 6.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/graffiti/eye/6"
+        }
+      },
+      {
+        "threshold": 7.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/graffiti/eye/7"
+        }
+      },
+      {
+        "threshold": 8.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/graffiti/eye/8"
+        }
+      }
+    ]
+  }
+}
