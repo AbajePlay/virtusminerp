@@ -1535,24 +1535,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/npc/ghost_open.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/npc/ghost_candy.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/slot/symbols.png",
       "ascent": 6,
       "height": 16,
