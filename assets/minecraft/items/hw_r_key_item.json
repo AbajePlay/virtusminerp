@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/pass/hw_king"
+    "model": "minecraft:item/hwpass/hw_r_key_item"
   }
 }

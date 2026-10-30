@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/pass/hw_free"
+    "layer0": "minecraft:item/hwpass/hw_r_virts"
   }
 }

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/pass/hw_witch"
+    "model": "minecraft:item/hwpass/hw_tier_free"
   }
 }
