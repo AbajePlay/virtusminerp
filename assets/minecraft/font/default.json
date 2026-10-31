@@ -1670,15 +1670,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/roadmap.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:gui/menu/worlds.png",
       "ascent": 19,
       "height": 256,
@@ -1691,35 +1682,45 @@
       "file": "minecraft:gui/menu/queststeps.png",
       "ascent": 19,
       "height": 256,
-      "chars": [""]
+      "chars": [
+        ""
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:gui/menu/pets.png",
       "ascent": 19,
       "height": 256,
-      "chars": [""]
+      "chars": [
+        ""
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:gui/menu/reward6.png",
       "ascent": 19,
       "height": 256,
-      "chars": [""]
+      "chars": [
+        ""
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:gui/menu/bp_rewards.png",
       "ascent": 19,
       "height": 256,
-      "chars": [""]
+      "chars": [
+        ""
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:gui/menu/bp_nick.png",
       "ascent": 19,
       "height": 256,
-      "chars": [""]
+      "chars": [
+        ""
+      ]
     },
     {
       "type": "bitmap",
@@ -3079,24 +3080,6 @@
       "height": 8,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/ach_hunter.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/ach_slayer.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
       ]
     }
   ]
