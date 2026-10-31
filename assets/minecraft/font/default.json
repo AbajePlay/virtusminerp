@@ -1706,15 +1706,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/roadmap.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:gui/menu/worlds.png",
       "ascent": 19,
       "height": 256,
@@ -3238,7 +3229,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/ach_hunter.png",
+      "file": "minecraft:font/title/ach_hw_hunter.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -3247,7 +3238,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/ach_slayer.png",
+      "file": "minecraft:font/title/ach_hw_witch.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -3256,29 +3247,11 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/ach_hw_hunter.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/title/ach_hw_witch.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/title/ach_hw_king.png",
       "ascent": 7,
       "height": 8,
       "chars": [
-        ""
+        ""
       ]
     }
   ]
