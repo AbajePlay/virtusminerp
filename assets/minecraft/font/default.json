@@ -3238,15 +3238,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/title/ach_hw_witch.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/title/ach_hw_king.png",
       "ascent": 7,
       "height": 8,
