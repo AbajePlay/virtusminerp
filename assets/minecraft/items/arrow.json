@@ -310,6 +310,13 @@
         }
       },
       {
+        "threshold": 44.0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/case/halloween_icon"
+        }
+      },
+      {
         "threshold": 45.0,
         "model": {
           "type": "minecraft:model",
