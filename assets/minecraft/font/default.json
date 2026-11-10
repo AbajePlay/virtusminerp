@@ -1976,6 +1976,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:gui/menu/mounts.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu/shop_page_equipment.png",
       "ascent": 19,
       "height": 256,
