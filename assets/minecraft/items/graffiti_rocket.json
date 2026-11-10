@@ -5,63 +5,63 @@
     "index": 0,
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/graffiti/cat/8"
+      "model": "minecraft:item/graffiti/rocket/8"
     },
     "entries": [
       {
         "threshold": 1.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/graffiti/cat/1"
+          "model": "minecraft:item/graffiti/rocket/1"
         }
       },
       {
         "threshold": 2.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/graffiti/cat/2"
+          "model": "minecraft:item/graffiti/rocket/2"
         }
       },
       {
         "threshold": 3.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/graffiti/cat/3"
+          "model": "minecraft:item/graffiti/rocket/3"
         }
       },
       {
         "threshold": 4.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/graffiti/cat/4"
+          "model": "minecraft:item/graffiti/rocket/4"
         }
       },
       {
         "threshold": 5.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/graffiti/cat/5"
+          "model": "minecraft:item/graffiti/rocket/5"
         }
       },
       {
         "threshold": 6.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/graffiti/cat/6"
+          "model": "minecraft:item/graffiti/rocket/6"
         }
       },
       {
         "threshold": 7.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/graffiti/cat/7"
+          "model": "minecraft:item/graffiti/rocket/7"
         }
       },
       {
         "threshold": 8.0,
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/graffiti/cat/8"
+          "model": "minecraft:item/graffiti/rocket/8"
         }
       }
     ]

@@ -1,7 +1,7 @@
 {
   "textures": {
-    "particle": "minecraft:item/graffiti/cat/8",
-    "g": "minecraft:item/graffiti/cat/8"
+    "particle": "minecraft:item/graffiti/rocket/8",
+    "g": "minecraft:item/graffiti/rocket/8"
   },
   "gui_light": "front",
   "elements": [
