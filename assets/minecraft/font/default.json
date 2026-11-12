@@ -3496,6 +3496,18 @@
       "chars": [
         ""
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/hp_bar.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": [
+        "",
+        "",
+        "",
+        ""
+      ]
     }
   ]
 }
