@@ -3500,8 +3500,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/ui/hp_bar.png",
-      "ascent": 7,
-      "height": 9,
+      "ascent": 5,
+      "height": 5,
       "chars": [
         "",
         "",
