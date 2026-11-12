@@ -550,6 +550,15 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/donate_crown.png",
+      "ascent": 8,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
       "type": "space",
       "advances": {
         "": 1,
