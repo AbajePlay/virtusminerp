@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/ui/daily_key_done"
+    "model": "minecraft:item/ui/daily_gift_gold"
   }
 }
