@@ -514,6 +514,42 @@
       ]
     },
     {
+      "type": "bitmap",
+      "file": "minecraft:font/board/bar_start.png",
+      "ascent": 7,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/board/bar_end.png",
+      "ascent": 7,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/board/bar_single.png",
+      "ascent": 7,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/board/bar.png",
+      "ascent": 7,
+      "height": 9,
+      "chars": [
+        ""
+      ]
+    },
+    {
       "type": "space",
       "advances": {
         "": 1,
@@ -2143,8 +2179,7 @@
         "",
         "",
         "",
-        "",
-        ""
+        ""
       ]
     },
     {
@@ -2153,7 +2188,7 @@
       "ascent": 7,
       "height": 13,
       "chars": [
-        ""
+        ""
       ]
     },
     {
