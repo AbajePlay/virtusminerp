@@ -599,6 +599,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/ui/market_scales.png",
+      "ascent": -1,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu/main.png",
       "ascent": 19,
       "height": 256,
