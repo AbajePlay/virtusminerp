@@ -680,6 +680,33 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/ui/bc_megaphone.png",
+      "ascent": 8,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/happy_hourglass.png",
+      "ascent": 8,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/airdrop_parachute.png",
+      "ascent": 8,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu/main.png",
       "ascent": 19,
       "height": 256,
