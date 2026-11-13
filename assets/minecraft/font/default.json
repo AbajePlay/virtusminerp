@@ -816,7 +816,7 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/ui/dimwipe_portal.png",
-      "ascent": 4,
+      "ascent": 8,
       "height": 27,
       "chars": [
         ""
