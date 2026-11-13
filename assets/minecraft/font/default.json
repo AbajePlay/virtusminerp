@@ -743,6 +743,42 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/ui/casino_gacha.png",
+      "ascent": 4,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/casino_key.png",
+      "ascent": 4,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/casino_wheel.png",
+      "ascent": 4,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/casino_plinko.png",
+      "ascent": 4,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu/main.png",
       "ascent": 19,
       "height": 256,
