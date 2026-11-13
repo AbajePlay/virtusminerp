@@ -635,6 +635,51 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/ui/punish_forbid.png",
+      "ascent": 8,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/punish_forbid.png",
+      "ascent": 4,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/yt_camera.png",
+      "ascent": 8,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/duel_swords.png",
+      "ascent": 8,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/clan_shield.png",
+      "ascent": 8,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu/main.png",
       "ascent": 19,
       "height": 256,
