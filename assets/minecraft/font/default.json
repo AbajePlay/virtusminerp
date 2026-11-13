@@ -707,6 +707,42 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:font/ui/time_day.png",
+      "ascent": 8,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/time_night.png",
+      "ascent": 8,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/weather_sun.png",
+      "ascent": 8,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/ui/weather_storm.png",
+      "ascent": 8,
+      "height": 27,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu/main.png",
       "ascent": 19,
       "height": 256,
