@@ -4547,8 +4547,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/rarity/legendary.png",
-      "ascent": 8,
-      "height": 10,
+      "ascent": 7,
+      "height": 8,
       "chars": [
         ""
       ]
