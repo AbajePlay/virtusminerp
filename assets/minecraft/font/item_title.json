@@ -1,0 +1,52 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/item_title/caps.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "АБВГДЕЖЗИКЛМНОПР",
+        "СТУФХЦЧШЩЪЫЬЭЮЯD",
+        "FGIJLNQRSUVWYZ01",
+        "23456789.,:!?-+'",
+        "\"()ABCEHKMOPTX\u0000\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/item_title/caps.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        "абвгдежзиклмнопр",
+        "стуфхцчшщъыьэюяd",
+        "fgijlnqrsuvwyz\u0000\u0000",
+        "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "\u0000\u0000\u0000abcehkmoptx\u0000\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/item_title/caps_tall.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "ЁЙ\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/item_title/caps_tall.png",
+      "ascent": 9,
+      "height": 10,
+      "chars": [
+        "ёй\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+      ]
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:default"
+    }
+  ]
+}
