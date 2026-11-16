@@ -506,15 +506,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/stat/candy_icon.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/board/bar_start.png",
       "ascent": 7,
       "height": 9,
@@ -1301,15 +1292,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/zone/crypt.png",
-      "ascent": 7,
-      "height": 14,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:gui/menu/caseopen1.png",
       "ascent": 19,
       "height": 256,
@@ -1504,24 +1486,6 @@
       "height": 8,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/npc/witch.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/npc/pumpking.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
       ]
     },
     {
@@ -1823,24 +1787,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/witch.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu/halloween_case.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:gui/menu/case_donate.png",
       "ascent": 19,
       "height": 256,
@@ -1891,51 +1837,6 @@
       "height": 64,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu/halloween_see.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu/hw_pass.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu/hw_passes.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu/hw_levels.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu/hw_quests.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
       ]
     },
     {
@@ -2197,8 +2098,7 @@
         "",
         "",
         "",
-        "",
-        ""
+        ""
       ]
     },
     {
@@ -2207,7 +2107,7 @@
       "ascent": 7,
       "height": 13,
       "chars": [
-        ""
+        ""
       ]
     },
     {
