@@ -1958,7 +1958,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_page_equipment.png",
+      "file": "minecraft:gui/menu/shop_page_armor.png",
       "ascent": 19,
       "height": 256,
       "chars": [
@@ -1967,7 +1967,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_page_artifacts.png",
+      "file": "minecraft:gui/menu/shop_page_weapons.png",
       "ascent": 19,
       "height": 256,
       "chars": [
@@ -1976,7 +1976,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_page_rare.png",
+      "file": "minecraft:gui/menu/shop_page_enchants.png",
       "ascent": 19,
       "height": 256,
       "chars": [
@@ -1985,7 +1985,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_page_legendary.png",
+      "file": "minecraft:gui/menu/shop_page_artifacts.png",
       "ascent": 19,
       "height": 256,
       "chars": [
@@ -1994,7 +1994,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_page_trophies.png",
+      "file": "minecraft:gui/menu/shop_page_consumables.png",
       "ascent": 19,
       "height": 256,
       "chars": [
@@ -2003,7 +2003,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_page_arrows.png",
+      "file": "minecraft:gui/menu/shop_page_relics.png",
       "ascent": 19,
       "height": 256,
       "chars": [
@@ -2012,7 +2012,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_page_potions.png",
+      "file": "minecraft:gui/menu/shop_page_rare.png",
       "ascent": 19,
       "height": 256,
       "chars": [
@@ -2021,7 +2021,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_page_spawners.png",
+      "file": "minecraft:gui/menu/shop_page_arrows.png",
       "ascent": 19,
       "height": 256,
       "chars": [
@@ -2030,7 +2030,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_page_blocks.png",
+      "file": "minecraft:gui/menu/shop_page_potions.png",
       "ascent": 19,
       "height": 256,
       "chars": [
@@ -2039,7 +2039,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_page_altars.png",
+      "file": "minecraft:gui/menu/shop_page_blocks.png",
       "ascent": 19,
       "height": 256,
       "chars": [
@@ -2048,7 +2048,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_page_ench_weapon.png",
+      "file": "minecraft:gui/menu/shop_page_spawners.png",
       "ascent": 19,
       "height": 256,
       "chars": [
@@ -2057,38 +2057,11 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_page_ench_armor.png",
+      "file": "minecraft:gui/menu/shop_page_altars.png",
       "ascent": 19,
       "height": 256,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_page_ench_tool.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_page_ench_misc.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu/shop_page_sets.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
       ]
     },
     {
