@@ -1,0 +1,1 @@
+{"textures":{"0":"minecraft:item/npc/senator_sleep","particle":"minecraft:item/npc/senator_sleep"},"elements":[{"from":[9.0,11.0,4.1],"to":[11.0,13.0,4.2],"faces":{"north":{"uv":[0.0,0.0,0.25,0.25],"texture":"#0"}}}]}
