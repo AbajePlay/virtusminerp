@@ -310,13 +310,6 @@
         }
       },
       {
-        "threshold": 44.0,
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/case/halloween_icon"
-        }
-      },
-      {
         "threshold": 45.0,
         "model": {
           "type": "minecraft:model",
@@ -426,20 +419,6 @@
         "model": {
           "type": "minecraft:model",
           "model": "minecraft:item/prize/page_7"
-        }
-      },
-      {
-        "threshold": 61.0,
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/cosmetic/prefix_color_icon"
-        }
-      },
-      {
-        "threshold": 62.0,
-        "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/prize/page_8"
         }
       }
     ]
