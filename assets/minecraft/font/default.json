@@ -932,15 +932,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/grant.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:gui/menu/prize.png",
       "ascent": 19,
       "height": 256,
