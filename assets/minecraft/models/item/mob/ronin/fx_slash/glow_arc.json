@@ -1,0 +1,1 @@
+{"textures":{"0":"minecraft:item/mob/ronin/fx_slash","particle":"minecraft:item/mob/ronin/fx_slash"},"elements":[{"from":[-8.0,8.0,-8.0],"to":[24.0,8.0,24.0],"faces":{"up":{"uv":[0.0,0.0,16.0,16.0],"texture":"#0","tintindex":0},"down":{"uv":[16.0,0.0,0.0,16.0],"texture":"#0","tintindex":0}}}]}
