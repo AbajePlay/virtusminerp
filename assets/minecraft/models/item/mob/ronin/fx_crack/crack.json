@@ -1,0 +1,1 @@
+{"textures":{"0":"minecraft:item/mob/ronin/fx_crack","particle":"minecraft:item/mob/ronin/fx_crack"},"elements":[{"from":[-8.0,8.08,-8.0],"to":[24.0,8.08,24.0],"faces":{"up":{"uv":[0.0,0.0,8.0,8.0],"texture":"#0","tintindex":0},"down":{"uv":[0.0,8.0,8.0,0.0],"texture":"#0","tintindex":0}}}]}
