@@ -416,33 +416,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/ui/top.png",
-      "ascent": 7,
-      "height": 9,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/ui/down.png",
-      "ascent": 7,
-      "height": 9,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/ui/topdown.png",
-      "ascent": 7,
-      "height": 10,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/stat/pointsclan.png",
       "ascent": 7,
       "height": 8,
