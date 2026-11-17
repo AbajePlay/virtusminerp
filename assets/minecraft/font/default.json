@@ -4563,7 +4563,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/kit/miner.png",
+      "file": "minecraft:font/kit/enchanter.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -4572,7 +4572,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/kit/enchanter.png",
+      "file": "minecraft:font/kit/farmer.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -4581,7 +4581,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/kit/farmer.png",
+      "file": "minecraft:font/kit/alchemist.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -4590,7 +4590,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/kit/builder.png",
+      "file": "minecraft:font/kit/hunter.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -4599,7 +4599,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/kit/alchemist.png",
+      "file": "minecraft:font/kit/traveler.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -4608,7 +4608,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/kit/hunter.png",
+      "file": "minecraft:font/kit/mechanic.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -4617,7 +4617,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/kit/traveler.png",
+      "file": "minecraft:font/kit/treasury.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -4626,7 +4626,7 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/kit/mechanic.png",
+      "file": "minecraft:font/kit/triumph.png",
       "ascent": 7,
       "height": 8,
       "chars": [
@@ -4635,29 +4635,11 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/kit/treasury.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/kit/triumph.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/kit/praetorian.png",
       "ascent": 7,
       "height": 8,
       "chars": [
-        ""
+        ""
       ]
     }
   ]
