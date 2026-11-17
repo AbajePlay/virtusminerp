@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "minecraft:item/mob/ronin/fx_tornado/ring4",
+    "model": "minecraft:item/mob/ronin/fx_debris/chunk3",
     "tints": [
       {
         "type": "minecraft:dye",
