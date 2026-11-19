@@ -1949,6 +1949,51 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:gui/menu/exc_order_privileges.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        "\ue244"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/menu/exc_order_cases.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        "\ue245"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/menu/exc_order_virts.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        "\ue246"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/menu/exc_order_pass.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        "\ue247"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:gui/menu/exc_order_misc.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        "\ue249"
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu/kit_view_3.png",
       "ascent": 19,
       "height": 256,
