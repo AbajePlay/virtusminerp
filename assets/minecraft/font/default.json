@@ -1985,15 +1985,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:gui/menu/exc_order_xp.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        "\ue248"
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:gui/menu/exc_order_misc.png",
       "ascent": 19,
       "height": 256,
