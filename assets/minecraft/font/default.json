@@ -707,24 +707,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/ui/casino_gacha.png",
-      "ascent": 4,
-      "height": 27,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/ui/casino_key.png",
-      "ascent": 4,
-      "height": 27,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/ui/casino_wheel.png",
       "ascent": 4,
       "height": 27,
