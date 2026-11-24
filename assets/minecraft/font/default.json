@@ -1733,6 +1733,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:gui/menu/kit_rank8.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu/cosmetic_term.png",
       "ascent": 19,
       "height": 256,
@@ -1756,15 +1765,6 @@
       "height": 256,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:gui/menu/kit_rank9.png",
-      "ascent": 19,
-      "height": 256,
-      "chars": [
-        ""
       ]
     },
     {
@@ -4653,15 +4653,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/kit/traveler.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/kit/treasury.png",
       "ascent": 7,
       "height": 8,
@@ -4730,15 +4721,6 @@
       "height": 8,
       "chars": [
         ""
-      ]
-    },
-    {
-      "type": "bitmap",
-      "file": "minecraft:font/kit/traveler_icon.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
       ]
     },
     {
