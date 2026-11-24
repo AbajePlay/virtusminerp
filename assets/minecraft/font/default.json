@@ -2102,6 +2102,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:gui/menu/kit_view_extra.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu/shop_page_armor.png",
       "ascent": 19,
       "height": 256,
