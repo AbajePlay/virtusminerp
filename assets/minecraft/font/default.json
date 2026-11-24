@@ -1760,6 +1760,15 @@
     },
     {
       "type": "bitmap",
+      "file": "minecraft:gui/menu/kit_rank9.png",
+      "ascent": 19,
+      "height": 256,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
       "file": "minecraft:gui/menu/case_donate.png",
       "ascent": 19,
       "height": 256,
@@ -4626,15 +4635,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/kit/farmer.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/kit/alchemist.png",
       "ascent": 7,
       "height": 8,
@@ -4662,15 +4662,6 @@
     },
     {
       "type": "bitmap",
-      "file": "minecraft:font/kit/mechanic.png",
-      "ascent": 7,
-      "height": 8,
-      "chars": [
-        ""
-      ]
-    },
-    {
-      "type": "bitmap",
       "file": "minecraft:font/kit/treasury.png",
       "ascent": 7,
       "height": 8,
@@ -4694,6 +4685,87 @@
       "height": 8,
       "chars": [
         ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit/main_icon.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit/warrior_icon.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit/enchanter_icon.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit/alchemist_icon.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit/hunter_icon.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit/traveler_icon.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit/treasury_icon.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit/triumph_icon.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/kit/praetorian_icon.png",
+      "ascent": 7,
+      "height": 8,
+      "chars": [
+        ""
       ]
     }
   ]
